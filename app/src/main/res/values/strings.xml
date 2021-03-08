@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountdownComposeChallenge</string>
+
+    <string name="title">A Vertical ProgressBar</string>
+    <string name="button_label">Reload Progress</string>
+
+
+</resources>
